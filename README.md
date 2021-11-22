@@ -2,10 +2,10 @@
 https://github.com/HaneenHaashlamoun/drf-api-permissions-postgres/pulls/1
 
 ### Girls Helped me :
- - Dua Jaradat
- - Tahani Ali
- - Tasneem Al-Absi
- - Mona Saleh 
+ - *Dua Jaradat*
+ - *Tahani Ali*
+ - *Tasneem Al-Absi*
+ - *Mona Saleh*
 
 # Feature Tasks and Requirements
 

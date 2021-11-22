@@ -25,3 +25,4 @@ class BlogTests(TestCase):
         self.assertEqual(expected_author, "testuser1")
         self.assertEqual(expected_title, "Blog title")
         self.assertEqual(expected_body, "Body content...")
+
