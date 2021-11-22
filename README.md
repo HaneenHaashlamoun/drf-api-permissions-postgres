@@ -1,6 +1,12 @@
 # drf-api-permissions-postgres
 https://github.com/HaneenHaashlamoun/drf-api-permissions-postgres/pulls/1
 
+### Girls Helped me :
+ - Dua Jaradat
+ - Tahani Ali
+ - Tasneem Al-Absi
+ - Mona Saleh 
+
 # Feature Tasks and Requirements
 
 ## Features - General
